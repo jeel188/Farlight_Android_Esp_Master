@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Cosmic" parent="Theme.MaterialComponents">
+        <!-- Primary brand color. -->
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryVariant">@color/dark</item>
+        <item name="colorOnPrimary">@color/dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_sky</item>
+        <item name="colorSecondaryVariant">@color/blue_sky</item>
+        <item name="colorOnSecondary">@color/blue_sky</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Cosmic2" parent="Theme.MaterialComponents.Light">
+        <!-- Primary brand color. -->
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryVariant">@color/dark</item>
+        <item name="colorOnPrimary">@color/dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_sky</item>
+        <item name="colorSecondaryVariant">@color/blue_sky</item>
+        <item name="colorOnSecondary">@color/blue_sky</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="ItemTouchClickable">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="DialogStyle" parent="Theme.MaterialComponents.Light.Dialog.Alert.Bridge">
+        <item name="colorOnPrimary">@color/dark</item>
+    </style>
+</resources>

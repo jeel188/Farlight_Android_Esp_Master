@@ -1,0 +1,1 @@
+copy %~dp0..\libs\armeabi-v7a\UtilityHelper ..\assets\UtilityHelper

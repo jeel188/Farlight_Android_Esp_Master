@@ -1,0 +1,16 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SAGAR/Sources/1.9.0-CosmicESP-Remade-CameraCache-SDK-BT/app/src/main/res/layout/overlay_layout.xml" value="0.25" />
+        <entry key="..\:/SAGAR/Sources/1.9.0-CosmicESP-Remade-CameraCache-SDK/app/src/main/res/layout/overlay_layout.xml" value="0.12158054711246201" />
+        <entry key="..\:/SAGAR/Sources/1.9.0-CosmicESP-Remade-CameraCache/app/src/main/res/layout/dialog_layout.xml" value="0.2341485507246377" />
+        <entry key="..\:/SAGAR/Sources/1.9.0-CosmicESP-Remade-CameraCache/app/src/main/res/layout/overlay_layout.xml" value="0.2341485507246377" />
+        <entry key="..\:/SAGAR/Sources/1.9.0-CosmicESP-XML/app/src/main/res/layout/overlay_layout.xml" value="0.12158054711246201" />
+        <entry key="..\:/SAGAR/Sources/1.9.0-Test-InternalToExternal/app/src/main/res/layout/overlay_layout.xml" value="0.23867753623188406" />
+        <entry key="..\:/SAGAR/Sources/2.0.0-CosmicESP-Remade-CameraCache-SDK-BT/app/src/main/res/layout/overlay_layout.xml" value="0.24901574803149606" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK" />
+</project>
